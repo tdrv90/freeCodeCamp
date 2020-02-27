@@ -22,11 +22,9 @@ function fearNotLetter(str) {
 
     let strToArray = str.split('');
 
-    if (strToArray.length === arrToCompare.length) {
-        return undefined;
-    } else {
-        return arrToCompare.filter(x => !strToArray.includes(x)).join('');
-    }
+    return strToArray.length === arrToCompare.length
+        ? undefined
+        : arrToCompare.filter(x => !strToArray.includes(x)).join('');
 }
 
 console.log(fearNotLetter("abce")); // "d"
