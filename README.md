@@ -3,6 +3,7 @@
 ## (1) Responsive Web Design Certification (300 hours)
 to be completed
 
+***
 ## (2) JavaScript Algorithms and Data Structures Certification (300 hours)
 
 #### 1. Basic JavaScript (110 of 110 challenges done)
@@ -34,17 +35,22 @@ These challenges will allow you to test how much you have learned and which part
 #### 9. JavaScript Algorithms and Data Structures Projects (5 of 5 challenges done)
 These challenges will be similar to the algorithm scripting challenges but more difficult. This will allow you to prove how much you have learned.
 
+***
 ## (3) Front End Libraries Certification (300 hours)
 to be completed
 
+***
 ## (4) Data Visualization Certification (300 hours)
 to be completed
 
+***
 ## (5) APIs and Microservices Certification (300 hours)
 to be completed
 
+***
 ## (6) Information Security and Quality Assurance Certification (300 hours)
 to be completed
 
+***
 ## (7) Coding Interview Prep (Thousands of hours of challenges)
 to be completed
