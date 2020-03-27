@@ -1,7 +1,24 @@
 # freeCodeCamp
 
+
 ## (1) Responsive Web Design Certification (300 hours)
-to be completed
+
+### 1. Basic HTML and HTML5 (28 of 28 challenges completed)
+This section introduces how to use HTML elements to give structure and meaning to your web content.
+### 2. Basic CSS (44 of 44 challenges completed)
+In this section, you'll see how adding CSS styles to the elements of your CatPhotoApp can change it from simple text to something more.
+### 3. Applied VIsual Design (0 of 52 challenges completed)
+This section covers some of the basic tools developers use to create their own visual designs.
+### 4. Applied Accessibility (0 of 22) 
+
+### 5. Responsive Web Design Principles (0 of 4) 
+
+### 6. CSS Flexbox (0 of 17)
+
+### 7. CSS Grid (0 of 22)
+
+### 8. Responsive Web Design Projects (0 of 5)
+
 
 ## (2) JavaScript Algorithms and Data Structures Certification (300 hours)
 
@@ -37,11 +54,14 @@ These challenges will be similar to the algorithm scripting challenges but more 
 ## (3) Front End Libraries Certification (300 hours)
 to be completed
 
+
 ## (4) Data Visualization Certification (300 hours)
 to be completed
 
+
 ## (5) APIs and Microservices Certification (300 hours)
 to be completed
+
 
 ## (6) Information Security and Quality Assurance Certification (300 hours)
 to be completed
